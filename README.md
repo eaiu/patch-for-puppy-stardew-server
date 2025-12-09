@@ -7,7 +7,7 @@
 >2. [节日活动无法正常参加](https://github.com/truman-world/puppy-stardew-server/issues/15#issue-3628806259)
 >3. [熬夜到凌晨2点，所有加入晚间会触发自动休息，但是主机不会，导致整体卡住](https://github.com/truman-world/puppy-stardew-server/issues/17#issue-3663800001)
 >
->不知道对其他还有什么影响，后果未知。
+>！敬告：不知道对其他有什么影响，后果未知。
 
 确实是对话框处理的问题，作者之前在v1.40添加了关于地震等 ReadyCheckDialog 对话框的判断，但不知道为什么没生效。
 
