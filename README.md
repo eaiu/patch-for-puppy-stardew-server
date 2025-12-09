@@ -3,7 +3,7 @@
 >[!important]
 >
 >修复的相关issue链接:
->1. [夏季地震之后无法等待host醒来]([https://github.com/truman-world/puppy-stardew-server/issues/14#issue-3619530443](https://github.com/truman-world/puppy-stardew-server/issues/14#issuecomment-3619771521))
+>1. [夏季地震之后无法等待host醒来](https://github.com/truman-world/puppy-stardew-server/issues/14#issuecomment-3619771521)
 >2. [节日活动无法正常参加](https://github.com/truman-world/puppy-stardew-server/issues/15#issue-3628806259)
 >3. [熬夜到凌晨2点，所有加入晚间会触发自动休息，但是主机不会，导致整体卡住](https://github.com/truman-world/puppy-stardew-server/issues/17#issue-3663800001)
 >
